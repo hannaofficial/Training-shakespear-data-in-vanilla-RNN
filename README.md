@@ -1,0 +1,1 @@
+# Training-shakespear-data-in-vanilla-RNN
