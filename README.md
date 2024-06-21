@@ -9,3 +9,5 @@ The Unreasonable Effectiveness of Recurrent Neural Networks by andrej Karpathy
 Links: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 I just train it for 30-40 minutes because I was looking for traing same data with LSTM for better result
+
+Accuracy is really bad that's why I try to use LSTM 😂
